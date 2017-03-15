@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SimpleWeatherApp</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="place_details">
+    <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        <i>Place Id: %2$s</i>
+        <br/>
+        Address: %3$s
+        <br/>
+        Phone: %4$s
+        <br/>
+        Website: %5$s
+    ]]>
+    </string>
+
+    <string name="backdrop_title">Weather Report</string>
+    <string name="backdrop_subtitle">For following cities</string>
+
+    <string name="menu_remove">Remove</string>
+    <string name="menu_details">Details</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
